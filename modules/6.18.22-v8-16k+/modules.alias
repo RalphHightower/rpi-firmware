@@ -13981,6 +13981,7 @@ alias net-act-pedit act_pedit
 alias net-act-simple act_simple
 alias net-act-skbedit act_skbedit
 alias net-act-csum act_csum
+alias net-act-ctinfo act_ctinfo
 alias net-sch-htb sch_htb
 alias net-sch-hfsc sch_hfsc
 alias net-sch-red sch_red

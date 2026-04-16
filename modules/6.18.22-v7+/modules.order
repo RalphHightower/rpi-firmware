@@ -1457,6 +1457,7 @@ kernel/net/sched/act_pedit.ko
 kernel/net/sched/act_simple.ko
 kernel/net/sched/act_skbedit.ko
 kernel/net/sched/act_csum.ko
+kernel/net/sched/act_ctinfo.ko
 kernel/net/sched/sch_htb.ko
 kernel/net/sched/sch_hfsc.ko
 kernel/net/sched/sch_red.ko
